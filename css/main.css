@@ -10,3 +10,47 @@ body {
     font-family: Arial, sans-serif;
     font-size: 18px;
 }
+header,
+footer {
+    background-color: lightgray;
+}
+.site-title {
+    color: blue;
+}
+.hobbies {
+    list-style-type: square;
+}
+
+.hobbies li:nth-child(odd) {
+    background-color: lightyellow;
+}
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+nav a:hover,
+nav a:focus {
+    background-color: orange;
+}
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+nav a:hover,
+nav a:focus {
+    background-color: orange;
+}
