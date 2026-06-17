@@ -1,6 +1,8 @@
 .site-title {
     color: blue;
 }
-img {
+
+#my-photo {
     border: 5px solid red;
+    width: 250px;
 }
