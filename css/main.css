@@ -1,9 +1,7 @@
 .site-title {
     color: blue;
 }
-#my-image {
-    box-shadow: 0 0 2px 1px black;
-}
-#my-image {
-    border: 5px solid red;
+#my-photo {
+    border-radius: 50%;
+    border: 2px solid black;
 }
