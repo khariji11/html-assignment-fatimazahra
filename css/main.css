@@ -6,3 +6,7 @@
     border: 5px solid red;
     width: 250px;
 }
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
